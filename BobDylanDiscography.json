@@ -1,0 +1,314 @@
+[
+    {
+        "id": 1,
+        "Album": "Bob Dylan",
+        "Ano": 1962,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/bob-dylan-1962/"
+    },
+    {
+        "id": 2,
+        "Album": "The Freewheelin'",
+        "Ano": 1963,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/the-freewheelin-bob-dylan-1963/"
+    },
+    {
+        "id": 3,
+        "Album": "The Times They are a-Changin'",
+        "Ano": 1964,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/the-times-they-are-a-changin-1964/"
+    },
+    {
+        "id": 5,
+        "Album": "Another side of Bob Dylan",
+        "Ano": 1964,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/another-side-of-bob-dylan-1964/"
+    },
+    {
+        "id": 6,
+        "Album": "Highway 61 Revisite",
+        "Ano": 1965,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/highway-61-revisited-1965/"
+    },
+    {
+        "id": 7,
+        "Album": "Bringing It All Back Home",
+        "Ano": 1965,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/bringing-it-all-back-home-1965/"
+    },
+    {
+        "id": 8,
+        "Album": "Blonde on Blonde",
+        "Ano": 1966,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/blonde-on-blonde-1966/"
+    },
+    {
+        "id": 9,
+        "Album": "John Wesley Harding",
+        "Ano": 1967,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/john-wesley-harding-1967/"
+    },
+    {
+        "id": 10,
+        "Album": "Nashville Skyline",
+        "Ano": 1969,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/nashville-skyline-1969/"
+    },
+    {
+        "id": 11,
+        "Album": "New Morning",
+        "Ano": 1970,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/new-morning-1970/"
+    },
+    {
+        "id": 12,
+        "Album": "Self Portrait",
+        "Ano": 1970,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/self-portrait-1970/"
+    },
+    {
+        "id": 13,
+        "Album": "Dylan",
+        "Ano": 1973,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/dylan-1973/"
+    },
+    {
+        "id": 14,
+        "Album": "Pat Garrett & Billy the Kid [Soundtrack]",
+        "Ano": 1973,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/pat-garrett-e-billy-the-kid-soundtrack-1973/"
+    },
+    {
+        "id": 15,
+        "Album": "Before The Flood [Live With The Band, 1974]",
+        "Ano": 1974,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/before-the-flood-live-with-the-band-1974-1974/"
+    },
+    {
+        "id": 16,
+        "Album": "Planet Waves",
+        "Ano": 1974,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/planet-waves-1974/"
+    },
+    {
+        "id": 17,
+        "Album": "Blood On The Tracks",
+        "Ano": 1975,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/blood-on-the-tracks-1975/"
+    },
+    {
+        "id": 18,
+        "Album": "The Basement Tapes",
+        "Ano": 1975,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/the-basement-tapes-1975/"
+    },
+    {
+        "id": 19,
+        "Album": "Desire",
+        "Ano": 1976,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/desire-1976/"
+    },
+    {
+        "id": 20,
+        "Album": "Hard Rain",
+        "Ano": 1976,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/hard-rain-1976/"
+    },
+    {
+        "id": 21,
+        "Album": "Street Legal",
+        "Ano": 1978,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/street-legal-1978/"
+    },
+    {
+        "id": 22,
+        "Album": "Bob Dylan At Budokan",
+        "Ano": 1978,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/bob-dylan-at-budokan-1978/"
+    },
+    {
+        "id": 23,
+        "Album": "Slow Train Coming",
+        "Ano": 1979,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/slow-train-coming-1979/"
+    },
+    {
+        "id": 24,
+        "Album": "Saved",
+        "Ano": 1980,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/saved-1980/"
+    },
+    {
+        "id": 25,
+        "Album": "Shot of Love",
+        "Ano": 1981,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/shot-of-love-1981/"
+    },
+    {
+        "id": 26,
+        "Album": "Infidels",
+        "Ano": 1983,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/infidels-1983/"
+    },
+    {
+        "id": 27,
+        "Album": "The Legend",
+        "Ano": 1983,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/the-legend-1983/"
+    },
+    {
+        "id": 28,
+        "Album": "Real Live",
+        "Ano": 1984,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/real-live-1984/"
+    },
+    {
+        "id": 29,
+        "Album": "Biography",
+        "Ano": 1985,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/biography-1985/"
+    },
+    {
+        "id": 30,
+        "Album": "Empire Burlesque",
+        "Ano": 1985,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/empire-burlesque-1985/"
+    },
+    {
+        "id": 31,
+        "Album": "Knocked Out Loaded",
+        "Ano": 1985,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/knocked-out-loaded-1986/"
+    },
+    {
+        "id": 32,
+        "Album": "Down In The Groove",
+        "Ano": 1988,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/down-in-the-groove-1988/"
+    },
+    {
+        "id": 33,
+        "Album": "Oh Mercy",
+        "Ano": 1989,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/oh-mercy-1989/"
+    },
+    {
+        "id": 34,
+        "Album": "Under The Red Sky",
+        "Ano": 1990,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/under-the-red-sky-1990/"
+    },
+    {
+        "id": 35,
+        "Album": "The Bootleg Series, Vols. 1-3 : Rare And Unreleased, 1961-1991 [BOX SET]",
+        "Ano": 1991,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/the-bootleg-series-vols-1-3-rare-and-unreleased-1961-1991-box-set-1991/"
+    },
+    {
+        "id": 36,
+        "Album": "Good As I Been To You",
+        "Ano": 1992,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/good-as-i-been-to-you-1992/"
+    },
+    {
+        "id": 37,
+        "Album": "World Gone Wrong",
+        "Ano": 1993,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/world-gone-wrong-1993/"
+    },
+    {
+        "id": 38,
+        "Album": "Greatest Hits, Vol. 3",
+        "Ano": 1994,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/greatest-hits-vol-3-1994/"
+    },
+    {
+        "id": 39,
+        "Album": "MTV Unplugged - Bob Dylan",
+        "Ano": 1995,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/mtv-unplugged-bob-dylan-1995/"
+    },
+    {
+        "id": 40,
+        "Album": "Time Out Of Mind",
+        "Ano": 1997,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/time-out-of-mind-1997/"
+    },
+    {
+        "id": 41,
+        "Album": "The Bootleg Series, Vol. 4: Live, 1966: The Royal Albert Hall Concert",
+        "Ano": 1998,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/the-bootleg-series-vol-4-live-1966-the-royal-albert-hall-concert-1998/"
+    },
+    {
+        "id": 42,
+        "Album": "The Essential",
+        "Ano": 2000,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/the-essential-2000/"
+    },
+    {
+        "id": 43,
+        "Album": "Love and Theft",
+        "Ano": 2001,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/love-and-theft-2001/"
+    },
+    {
+        "id": 44,
+        "Album": "Bob Dylan Live 1975 (The Bootleg Series Volume 5)",
+        "Ano": 2002,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/bob-dylan-live-1975-the-bootleg-series-volume-5-2002/"
+    },
+    {
+        "id": 45,
+        "Album": "Bootleg Series, Vol. 7: No Direction Home",
+        "Ano": 2005,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/bootleg-series-vol-7-no-direction-home-2005/"
+    },
+    {
+        "id": 46,
+        "Album": "Modern Times",
+        "Ano": 2006,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/modern-times-2006/"
+    },
+    {
+        "id": 47,
+        "Album": "Christmas in the Heart",
+        "Ano": 2009,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/christmas-in-the-heart-2009/"
+    },
+    {
+        "id": 48,
+        "Album": "Together Through Life",
+        "Ano": 2009,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/together-through-life-2009/"
+    },
+    {
+        "id": 49,
+        "Album": "Tempest",
+        "Ano": 2012,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/tempest-2012/"
+    },
+    {
+        "id": 50,
+        "Album": "Shadows In The Night",
+        "Ano": 2015,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/shadows-in-the-night-2015/"
+    },
+    {
+        "id": 51,
+        "Album": "Fallen Angels",
+        "Ano": 2016,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/fallen-angels-2016/"
+    },
+    {
+        "id": 52,
+        "Album": "Triplicate",
+        "Ano": 2017,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/triplicate-2017/"
+    },
+    {
+        "id": 53,
+        "Album": "Rough and Rowdy Ways",
+        "Ano": 2020,
+        "Link para letras do album": "https://www.letras.mus.br/bob-dylan/discografia/rough-and-rowdy-ways-2020/"
+    }
+]
